@@ -69,17 +69,21 @@ endmodule
 ## Truthtable
 
 Half subtractor truth table:
+
 ![output](m1.png)
 
 Full subtractor truth table:
+
 ![output](m2.png)
 
 ##  RTL realization
 
-Half subtractor
+Half subtractor:
+
 ![output](m3.png)
 
-Full subtractor
+Full subtractor:
+
 ![output](m4.png)
 
 ## Timing diagram 
@@ -87,7 +91,8 @@ Full subtractor
 Half subtractor:
 ![output](m5.png)
 
-Full subtractor
+Full subtractor:
+
 ![output](m6.png)
 
 ## Result:
